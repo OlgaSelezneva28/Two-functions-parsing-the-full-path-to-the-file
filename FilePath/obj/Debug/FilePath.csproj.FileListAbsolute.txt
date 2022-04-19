@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\bin\Debug\FilePath.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\bin\Debug\FilePath.exe
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\bin\Debug\FilePath.pdb
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\obj\Debug\FilePath.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\obj\Debug\FilePath.exe
+c:\users\acer\documents\visual studio 2012\Projects\FilePath\FilePath\obj\Debug\FilePath.pdb
